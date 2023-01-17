@@ -17,3 +17,40 @@ Python is the primary language used to code this application. Streamlit library 
 
 
 
+This project leverages python 3.7 with the following packages:
+
+* [Streamlit](https://docs.streamlit.io/library/get-started) - Streamlit turns data scripts into shareable web apps
+* [DataClasses](https://docs.python.org/3/library/dataclasses.html) - It provides a decorator and functions for automatically adding generated special methods 
+* [Typing](https://docs.python.org/3/library/typing.html) -  This module provides runtime support for type hints
+* [Hashlib](https://docs.python.org/3/library/pathlib.html) - This module implements a common interface to many different secure hash and message digest algorithms (e.g., SHA256)
+
+
+## Installation Guide
+
+
+Before running the application first install the following dependencies.
+
+```python
+  pip install streamlit
+  
+```
+
+## Usage
+
+Use the following command to run the app
+
+```git to the directory and type
+ Streamlit run pychain.py
+```
+
+---
+
+## Contributors
+
+Azam Jiva
+
+---
+
+## License
+
+MIT
