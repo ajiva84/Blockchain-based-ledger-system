@@ -2,7 +2,7 @@
 
 ------------------
 
-![blockchain_ledger](application.png)
+<img src="https://github.com/ajiva84/Blockchain-based-ledger-system/blob/main/application.png" width="1000" height="500">
 
 
 # Overview
@@ -44,6 +44,26 @@ Use the following command to run the app
 ```
 
 ---
+## Screenshots
+Input fields and the block display
+<img src="https://github.com/ajiva84/Blockchain-based-ledger-system/blob/main/Record-blocks.png" width="1000" height="500">
+
+
+
+----
+Transaction and block hashes with timestamp
+<img src="https://github.com/ajiva84/Blockchain-based-ledger-system/blob/main/Transaction-hashesh-timestamp.png" width="1000" height="200">
+
+
+
+----
+Difficulty adjustor and block inspector
+
+<img src="https://github.com/ajiva84/Blockchain-based-ledger-system/blob/main/Block-inspector-difficulty.png">
+
+
+
+----
 
 ## Contributors
 
